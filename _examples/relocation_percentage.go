@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/buraksezer/consistent"
+	"github.com/Psiphon-Labs/consistent"
 	"github.com/cespare/xxhash"
 )
 

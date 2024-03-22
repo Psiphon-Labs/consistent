@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/buraksezer/consistent"
+	"github.com/Psiphon-Labs/consistent"
 	"github.com/cespare/xxhash"
 )
 

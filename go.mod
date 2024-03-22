@@ -1,3 +1,3 @@
-module github.com/buraksezer/consistent
+module github.com/Psiphon-Labs/consistent
 
 go 1.9
